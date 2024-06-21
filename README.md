@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Gaurav3011
-- 👀 I’m interested in learning new languages and game developement
-- 🌱 I’m currently learning python and c
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in learning neural networks and game developement
+- 🌱 I’m currently learning python and c++
+- 💞️ I’m looking to collaborate on AI , ML , Game devs
 - 📫 How to reach me my email-gauravpitu0@gmail.com
 
 <!---
